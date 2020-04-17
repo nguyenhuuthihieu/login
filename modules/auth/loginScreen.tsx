@@ -92,7 +92,8 @@ const styles = StyleSheet.create({
     link: {
       textDecoration: 'none',
       marginBottom:20,
-      marginTop:20
+      marginTop:20,
+      
     },
     check: {
       flex: 1,
